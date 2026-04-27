@@ -1,0 +1,1 @@
+This is a demo game i developed to improve my knowledge of mvc/service/repository architecture and dependency injection with vcontainer.
