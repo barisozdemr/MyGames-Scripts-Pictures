@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 603e6e5e0adbcc4458b0eb8d0beead38, type: 3}
+  m_Name: Legolas
+  m_EditorClassIdentifier: Assembly-CSharp::HeroSO
+  id: 2
+  heroName: Legolas
+  heroClassName: Archer
+  cardIcon: {fileID: 7788665608358985710, guid: 1cabaf8709b447f4489ee097a7b20cce, type: 3}
+  image: {fileID: 4283043203619721939, guid: 328d1a991f353554fa6a68d1b191bb08, type: 3}
+  baseAttack: 40
+  baseDefense: 15
+  baseSpeed: 20

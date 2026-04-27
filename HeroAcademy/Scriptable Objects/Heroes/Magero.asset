@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 603e6e5e0adbcc4458b0eb8d0beead38, type: 3}
+  m_Name: Magero
+  m_EditorClassIdentifier: Assembly-CSharp::HeroSO
+  id: 3
+  heroName: Magero
+  heroClassName: Mage
+  cardIcon: {fileID: 715739556934104388, guid: fc8c0a62f11967643b35921193caca7b, type: 3}
+  image: {fileID: 2428051086773497592, guid: 2bf24a48e75c07849899c38283714261, type: 3}
+  baseAttack: 50
+  baseDefense: 10
+  baseSpeed: 10
